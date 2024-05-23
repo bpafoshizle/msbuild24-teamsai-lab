@@ -17,5 +17,9 @@ The following is a conversational bot that uses the Azure OpenAI Chat Completion
 This sample shows how to integrate your Azure AI Search index as a data source into prompt templates through the Azure Chat Completions API.
 
 ### Example Interaction
+[example interaction](assets/example.png)
 
-![example interaction](assets/example.png)
+
+### More resources:
+[Teams AI Library](https://github.com/microsoft/teams-ai)
+[ContosoAI Health](https://github.com/microsoft/teams-ai/tree/BUILD/aoai/js/samples/04.ai-apps/z.build-2024/src/data)
